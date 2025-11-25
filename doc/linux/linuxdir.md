@@ -19,7 +19,7 @@ Linux运维的基础学习笔记
 
 * 虚拟机安装（VMware/VirtualBox）或双系统部署
 * 图形界面（GNOME/KDE）与命令行界面（CLI）切换
-* [远程连接工具使用](./Linux/SSH远程连接工具使用推荐)（Xshell、SecureCRT、Putty）
+* [远程连接工具使用](./linux/SSH远程连接工具使用推荐)（Xshell、SecureCRT、Putty）
 
 3. 基础命令操作
 
@@ -44,7 +44,7 @@ Linux运维的基础学习笔记
 * 密码管理（passwd、chage）
 * sudo 权限配置（/etc/sudoers）
 
-2. 文件系统与磁盘管理
+2. **[文件系统与磁盘管理](./linux/01.基础-必须掌握的命令/01.基础-必须掌握的命令)**
 
 * Linux 文件系统结构（/bin、/etc、/home、/var 等目录作用）
 * 磁盘分区（fdisk、parted）
@@ -74,12 +74,13 @@ Linux运维的基础学习笔记
 
 1. Shell 编程基础
 
+* [文本处理三剑客(grep-sed-awk)](.linux/01.基础-必须掌握的命令/03.文本处理三剑客grep-sed-awk/03.文本处理三剑客grep-sed-awk)
 * Bash 脚本语法（变量、循环 for/while、条件判断 if/else、case）
 * 函数与参数传递
 * 脚本调试与优化（set -x、echo 调试）
 * 常用脚本案例（文件备份、日志清理、系统监控）
 
-2. 软件包管理
+1. 软件包管理
 
 * RPM 包管理（rpm 命令安装 / 查询 / 卸载）
 * YUM/DNF 仓库配置（本地仓库、网络仓库）
