@@ -1,11 +1,9 @@
 <center>
 <a href="/" target="_blank" rel="noopener noreferrer">
-  <img src="touxiang.png" alt="外卖品尝师">
+  <img src="touxiang.png" alt="外卖品尝师" style="width: 100px; height: auto;">
 </a>
 </center>
 
-<center>外卖品尝师</center>
-<center>pokes@163.com</center>
 
 
 
