@@ -4,7 +4,12 @@
 </a>
 </center>
 
-- [首页](/)
+- [HOME](/)
+
+---
+
+<p style="text-align: left;">固定导航专栏</p>
+
 - [🍱01.Linux基础学习](doc/linux/list.md)
 - [🍚02.网络安全学习](doc/network/list.md)
 - [🥣03.python学习笔记](doc/python/list.md)
@@ -16,3 +21,6 @@
 - [💖09.英语学习笔记](doc/yingyu/list.md)
 - [🍔10.ERP运维笔记](doc/erp/list.md)
 
+----
+<p style="text-align: center;">联系：pokes@163.com</p>
+<p style="text-align: center;">外卖品尝师</p>
